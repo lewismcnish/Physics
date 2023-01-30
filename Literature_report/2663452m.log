@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Homebrew) (preloaded format=pdflatex 2022.11.23)  22 JAN 2023 14:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Homebrew) (preloaded format=pdflatex 2022.11.23)  30 JAN 2023 11:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -256,30 +256,30 @@ Package pdftex.def Info: images/Feynman Diagrams of missing Tranverse energy.png
 (pdftex.def)             Requested size: 129.00269pt x 139.2816pt.
  [1
 
-{/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./images/Feynman Diagrams of missing Tranverse energy.png>]
+{/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./images/Feynman Diagrams of missing Tranverse energy.png>] [2]
 Overfull \hbox (6.30057pt too wide) in paragraph at lines 85--92
 []\OT1/cmr/m/n/10 In this ar-ti-cle the XENON col-lab-o-ra-tion present the re-sults of their data anal-y-sis of the XENON1T
  []
 
-[2]
+[3]
 Overfull \hbox (25.60724pt too wide) in paragraph at lines 174--178
 \OT1/cmr/m/n/10 (2022) https://home.cern/news/news/physics/atlas-and-cms-release-results-most-comprehensive-studies-
  []
 
-[3] (./2663452m.aux) ) 
+[4] (./2663452m.aux) ) 
 Here is how much of TeX's memory you used:
  3475 strings out of 478268
  54183 string characters out of 5835365
- 350078 words of memory out of 5000000
+ 350084 words of memory out of 5000000
  21655 multiletter control sequences out of 15000+600000
  477167 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,62p,355b,234s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,6n,62p,439b,234s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
-Output written on 2663452m.pdf (3 pages, 120006 bytes).
+Output written on 2663452m.pdf (4 pages, 120619 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
