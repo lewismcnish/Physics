@@ -1,10 +1,5 @@
-% Moku:Go Frequency Response Analyzer
-% Channel 1, DC coupling, 10 Vpp range, amplitude 100 mVpp, offset 0.000 0 V, phase 0.000 deg
-% Channel 2, DC coupling, 10 Vpp range, amplitude 100 mVpp, offset 0.000 0 V, phase 0.000 deg
-% Logarithmic sweep from 20.00000 MHz to 9.970032 Hz with 512 pts, dynamic amplitude mode off, measuring fundamental, normalization off
-% Averaging time 2.00 ms, 1 cycles; Settling time 100 us, 1 cycles
-% Acquired 2023-10-26 T 12:23:34 +0100
-% Frequency (Hz), Channel 1 Magnitude (dB), Channel 1 Phase (deg)
+
+Frequency (Hz), Channel 1 Magnitude (dB), Channel 1 Phase (deg)
 2.00000000e+07, -5.6212e+01, -7.8320e+01
 1.94400180e+07, -5.6360e+01, -8.1614e+01
 1.88957149e+07, -5.7469e+01, -9.4456e+01
