@@ -1,4 +1,4 @@
-
+Gain = 4.73 dB
 Frequency (Hz), Channel 1 Magnitude (dB), Channel 1 Phase (deg)
 2.00000000e+07, -2.9461e+01, -6.5777e+01
 1.93511888e+07, -2.9686e+01, -7.2625e+01
@@ -498,17 +498,3 @@ Frequency (Hz), Channel 1 Magnitude (dB), Channel 1 Phase (deg)
 1.62730663e+00, 1.3569e+01, -4.4780e-02
 1.57451590e+00, 1.3569e+01, -1.5766e-02
 1.52343772e+00, 1.3573e+01, -1.4750e-02
-1.47401655e+00, nan, nan
-1.42619863e+00, nan, nan
-1.37993195e+00, nan, nan
-1.33516619e+00, nan, nan
-1.29185266e+00, nan, nan
-1.24994423e+00, nan, nan
-1.20939535e+00, nan, nan
-1.17016189e+00, nan, nan
-1.13220118e+00, nan, nan
-1.09547194e+00, nan, nan
-1.05993422e+00, nan, nan
-1.02554936e+00, nan, nan
-9.92279970e-01, nan, nan
-9.60089854e-01, nan, nan
