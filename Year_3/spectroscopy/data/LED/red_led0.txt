@@ -666,4 +666,3 @@ Number of Pixels in Processed Spectrum: 651
 998.00	100.89
 999.00	100.00
 1000.00	100.13
->>>>>End Processed Spectral Data<<<<<
