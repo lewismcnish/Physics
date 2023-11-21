@@ -1,0 +1,9 @@
+Mag field (3,4)
+varying mag field voltage, hall bar constant at 12V
+Input(V)    output(mV)  Output(microA)  mag(mT)
+2   0.52    37.33   7
+4   0.85    37.33   12
+6   1.19    37.33   18
+8   1.54    37.33   23
+10  1.90    37.33   28
+12  2.25    37.33   35
