@@ -1,3 +1,4 @@
+longitudinal voltage with varying input voltage
 No Mag field (1,4)
 Input (V)   output (mV) output (microA)
 2   41.3    6.25
